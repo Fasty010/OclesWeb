@@ -1,0 +1,85 @@
+body {
+background-color:  #F9B78C ;
+margin: 5% ;
+font-family: "fantasy;";
+width: 90%;
+ }
+ img {
+ 	width: 50%;
+ }
+ h2 {
+ 	font-family: "play";
+ }
+
+ ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #ED9053  ;
+  }
+
+li {
+ 	float:left;
+
+ }
+
+ li a {
+ 	display: block;
+ 	color: black;
+ 	text-align: center;
+ 	padding: 14px 16px;
+ 	text-decoration: none ;
+ }
+
+ li a: hover {
+    background-color: #111 ;
+   
+ }
+ .titulos{
+    font-size: 40px;
+    text-align: center;
+    padding: 10px 0px;
+}
+.parrafos{
+    font-size: 18px;
+    padding: 8px;
+    text-align: justify;
+font-family: initial;
+
+}
+ 
+ .tituloss{
+    font-size: 40px;
+    text-align: left;
+    padding: 8px 0px;
+}
+.subtemas{
+    font-size: 20px;
+    text-align: center;
+    padding: 1px 0px;
+}
+
+.tituloP{
+    font-size: 30px;
+    text-align: center;
+    padding: 1px 0px;
+}
+
+.subt{
+     font-size: 20px;
+    text-align: left;
+    padding: 1px 0px;
+}
+
+.foot {
+   background-color: #9D7050;
+   margin-top: 0%; 
+   width: 100%;
+   padding: 10px 0px;
+   position: relative;
+
+}
+.foot_p {
+   color: white;
+   text-align: left;
